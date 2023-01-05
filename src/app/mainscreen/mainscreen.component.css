@@ -1,0 +1,42 @@
+.panel-wrap {
+    /* background: #FOFOF; */
+    background-color: rgb(245, 247, 251);
+    /* height: 1920%;
+    width: 960%; */
+}
+
+.add {
+    background-color: #6763E3;
+    border-radius: 5px;
+    font-size: 10px !important;
+    color: white;
+    border: 1px solid #6763E3;
+
+}
+
+ .badge {
+    background: #514DDC;
+    /* margin-left: 67px; */
+    border-radius:25px;
+    font-size: 13px !important;
+    /* font-weight:bold */
+    position: relative;
+    height: 17px;
+    padding-top: 6px;
+    top: 4px;
+}
+.plus{
+    font-size: 0.9rem;
+    position: absolute;
+    top: 0;
+    left: 3px;
+}
+
+.container-fluid{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.add-fund{
+    text-align: end;
+}

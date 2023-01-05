@@ -1,0 +1,30 @@
+p {
+    font-family: Lato;
+  }
+  .test{
+    font-family: Lato;
+  }
+  .container{
+    display: grid;
+  
+  }
+  .item{
+    width: 100%;
+  }
+  .item-margin{
+    height: 50vh;
+    border-bottom: 1px solid salmon;
+  }
+  .container-fluid{
+    background-color: white;
+    padding-left:45px;
+    border-radius: 12px;
+    padding-right: 20px;
+    height: 360px;
+
+}
+#voPieChart {
+    width: 100%;
+    min-height: 330px;
+    height: auto;
+}

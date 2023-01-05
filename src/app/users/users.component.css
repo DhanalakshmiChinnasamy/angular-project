@@ -1,0 +1,60 @@
+.container-fluid {
+    background-color: white;
+    border-radius: 12px;
+
+    /* text-align: center; */
+}
+ 
+
+.text-secondary {
+    font-family: Source Sans Pro;
+    font-weight: Regular;
+    font-size: 14px;
+}
+
+.user {
+    text-align: left;
+    /* font-size: 1.875em; */
+}
+
+.socialMediaIcon {
+    color: lightgray;
+}
+
+/*  video  */
+.video {
+    width: 100%;
+    border: 1px solid black;
+}
+  
+ .badge {
+    background: #514DDC;
+    border-radius:25px;
+    font-size: 13px !important;
+  height: 16px;
+    left: 46px;
+   
+    top: 22px;
+    position: absolute;
+ 
+}
+.plus{
+    font-size: 0.9rem;
+    position: absolute;
+    top: 0;
+    left: 3px;
+}
+
+.edit-image{
+    position: relative;
+}
+
+.pencil{
+    height: 9px;
+    padding-right: 5px;
+}
+.dots{
+    position: absolute;
+    right: 43px;
+  }
+  

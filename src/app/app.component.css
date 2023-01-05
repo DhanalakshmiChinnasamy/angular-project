@@ -1,0 +1,11 @@
+.row {
+    background: #f0f0f7;
+}
+
+.left-side {
+    padding-right: 0 !important;
+}
+
+.right-side {
+    padding: 0 !important;
+}

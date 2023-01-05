@@ -1,0 +1,18 @@
+.container-fluid {
+    position: relative;
+    height: 355px;
+    background-color: white;
+    padding-left: 45px;
+    padding-right: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+}
+
+p {
+    font-family: Lato;
+}
+
+.arrow {
+    position: absolute;
+    right: 18px;
+}

@@ -1,0 +1,18 @@
+thead{
+    background-color: rgb(245, 247, 251);
+}
+table{
+    background: white; 
+    padding-left: 35px;
+    padding-right: 0.12rem !important;
+    padding-top: 0;
+    padding-bottom: 0.5em;
+    
+}
+.container-fluid{
+    background-color: white;
+    padding-left:45px;
+    padding-right: 20px;
+    border-radius: 12px;
+    
+}
